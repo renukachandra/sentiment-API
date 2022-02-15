@@ -26,7 +26,9 @@ checkpoint sentiment.h5 can be used to serve prediction directly without running
 
 ## Step 2: Creating our Deep Learning Model
 
-Model is saved in model.py
+Download the data from [Kaggle](https://www.kaggle.com/crowdflower/first-gop-debate-twitter-sentiment)
+
+Model is written in model.py
 
 ## Step 3: Creating a REST API using FAST API
 
