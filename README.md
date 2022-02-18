@@ -1,5 +1,5 @@
 # Target
-1. deploy your deep learning model as a REST API 
+1. deploy deep learning model as a REST API 
 2. add a form to take the input from the user
 3. return the predictions from the model
 
